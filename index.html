@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Habit Tracker Pro</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/a81368914c.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="container nav-container">
+      <h1 class="logo">HabitPro</h1>
+      <ul class="nav-links">
+        <li><a href="#tracker">Tracker</a></li>
+        <li><a href="#stats">Stats</a></li>
+        <li><a href="#tips">Tips</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container hero-content">
+      <h1>Build Better Habits</h1>
+      <p>Track your habits, stay consistent, and achieve your goals daily! 
+        Set personalized routines, monitor your progress, and celebrate small wins along the way. 
+        HabitPro helps you build lasting habits with visual progress, reminders, and motivational tips to stay on track every day.</p>
+      <a href="#tracker" class="btn btn-primary">Start Tracking</a>
+    </div>
+  </section>
+
+  <!-- Tracker Section -->
+  <section class="tracker" id="tracker">
+    <div class="container tracker-container">
+      <div class="add-habit-card card">
+        <h2>Add a Habit</h2>
+        <div class="add-habit">
+          <input type="text" id="habitInput" placeholder="Enter a new habit..." />
+          <button id="addBtn"><i class="fas fa-plus"></i> Add</button>
+        </div>
+      </div>
+
+      <div class="habit-list-card card">
+        <h2>My Habits</h2>
+        <ul id="habitList"></ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats Section -->
+  <section class="stats" id="stats">
+    <div class="container stats-container">
+      <h2>My Stats</h2>
+      <div class="stats-cards">
+        <div class="stat-card">
+          <i class="fas fa-list"></i>
+          <p>Total Habits</p>
+          <span id="totalHabits">0</span>
+        </div>
+        <div class="stat-card">
+          <i class="fas fa-check-circle"></i>
+          <p>Completed</p>
+          <span id="completedHabits">0</span>
+        </div>
+        <div class="stat-card">
+          <i class="fas fa-bolt"></i>
+          <p>Active Streak</p>
+          <span id="streak">0</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tips Section -->
+  <section class="tips" id="tips">
+    <div class="container tips-container">
+      <h2>Pro Tips for Habit Building</h2>
+      <div class="tips-cards">
+        <div class="tip-card"><i class="fas fa-lightbulb"></i><p>Start small and be consistent.</p></div>
+        <div class="tip-card"><i class="fas fa-clock"></i><p>Track habits daily at the same time.</p></div>
+        <div class="tip-card"><i class="fas fa-star"></i><p>Reward yourself for milestones.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container footer-container">
+      <h2>HabitPro</h2>
+      <p>&copy; <span id="year"></span> @HabitPro. All rights are reserved.</p>
+      <div class="social-links">
+        <a href="#"><i class="fab fa-facebook"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
