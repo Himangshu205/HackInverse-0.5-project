@@ -1,37 +1,38 @@
 # HackInverse-0.5-project
 A modern habit tracker built with HTML, CSS &amp; JavaScript to help users form daily routines and track progress.
-🧠 HabitPro – Habit Tracker Web App
+---
+# 🧠 HabitPro – Habit Tracker Web App
 
 HabitPro is a simple, clean, and user-friendly habit tracking web application built using HTML, CSS, and JavaScript.
 It helps users create, track, and maintain daily habits while providing visual feedback and progress statistics to encourage consistency.
 
-🚀 Features
+# 🚀 Features
 
 ✅ Add unlimited daily habits
 
-✏️ Mark habits as completed with a single click
+- ✏️ Mark habits as completed with a single click
 
-🗑️ Delete habits easily using a clear delete button
+- 🗑️ Delete habits easily using a clear delete button
 
-📊 Real-time habit statistics (total, completed, active streak)
+- 📊 Real-time habit statistics (total, completed, active streak)
 
-💾 Persistent data storage using localStorage
+- 💾 Persistent data storage using localStorage
 
-📱 Fully responsive design for desktop and mobile devices
+- 📱 Fully responsive design for desktop and mobile devices
 
-🎨 Clean and modern UI with smooth animations
+- 🎨 Clean and modern UI with smooth animations
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
-HTML5 – Structure and layout
+- HTML5 – Structure and layout
 
-CSS3 – Styling, responsiveness, animations
+- CSS3 – Styling, responsiveness, animations
 
-JavaScript (ES6) – Interactivity and logic
+- JavaScript (ES6) – Interactivity and logic
 
-LocalStorage – Data persistence in the browser
+- LocalStorage – Data persistence in the browser
 
-Font Awesome – Icons
+# Font Awesome – Icons
 
 Google Fonts (Inter) – Typography
 
@@ -43,7 +44,7 @@ HabitPro/
 ├── script.js       # JavaScript functionality
 └── README.md       # Project documentation
 
-⚙️ How It Works
+# ⚙️ How It Works
 
 Users enter a habit in the input field and click Add.
 
@@ -55,30 +56,20 @@ Clicking the Delete button removes the habit permanently.
 
 Statistics update instantly to reflect user progress.
 
-📸 Screenshots
-
-(Add screenshots of the app here)
-
-Home / Hero Section
-
-Habit Tracker Section
-
-Stats & Completed Habits
-
-🎯 Purpose of the Project
+# 🎯 Purpose of the Project
 
 The goal of HabitPro is to demonstrate how core web technologies can be used to build a real-world, functional application.
 The project focuses on:
 
-Simplicity
+- Simplicity
 
-User experience
+- User experience
 
-Clean UI design
+- Clean UI design
 
-Practical JavaScript usage
+- Practical JavaScript usage
 
-This project was developed as part of a hackathon / academic submission.
+- This project was developed as part of a hackathon / academic submission.
 
 🔮 Future Enhancements
 
