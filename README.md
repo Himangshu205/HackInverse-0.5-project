@@ -71,12 +71,12 @@ The project focuses on:
 
 - This project was developed as part of a hackathon / academic submission.
 
-🔮 Future Enhancements
+#🔮 Future Enhancements
 
-⏰ Habit reminders & notifications
+- ⏰ Habit reminders & notifications
 
-📈 Progress charts and analytics
+- 📈 Progress charts and analytics
 
-👤 User authentication
+- 👤 User authentication
 
-☁️ Cloud-based data storage
+- ☁️ Cloud-based data storage
