@@ -71,7 +71,7 @@ The project focuses on:
 
 - This project was developed as part of a hackathon / academic submission.
 
-#🔮 Future Enhancements
+# 🔮 FUTURE Enhancements suggestions:-
 
 - ⏰ Habit reminders & notifications
 
