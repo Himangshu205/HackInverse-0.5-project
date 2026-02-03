@@ -16,7 +16,7 @@ It helps users create, track, and maintain daily habits while providing visual f
 
 - 📊 Real-time habit and statistics (total, completed, active streak)
 
-- 💾 Persistent data storage using localStorage
+- 💾 Persistent data storage which is using localStorage
 
 - 📱 Fully responsive design for desktop and mobile devices
 
