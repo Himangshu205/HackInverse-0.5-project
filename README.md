@@ -24,11 +24,11 @@ It helps users create, track, and maintain daily habits while providing visual f
 
 # 🛠️ Technologies Used
 
-- HTML5 – Structure and layout
+- HTML5 – The Structure and layout
 
-- CSS3 – Styling, responsiveness, animations
+- CSS3 –  The Styling, responsiveness, animations
 
-- JavaScript (ES6) – Interactivity and logic
+- JavaScript (ES6) – The Interactivity and logic
 
 - LocalStorage – Data persistence in the browser
 
