@@ -36,8 +36,8 @@ It helps users create, track, and maintain daily habits while providing visual f
 
 Google Fonts (Inter) – Typography
 
-📂 Project Structure
-HabitPro/
+📂 The Project Structure:-
+HABIT PRO APP/
 │
 ├── index.html      # The Main HTML structure
 ├── style.css       # Styling and responsive design
