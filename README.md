@@ -39,7 +39,7 @@ Google Fonts (Inter) – Typography
 📂 Project Structure
 HabitPro/
 │
-├── index.html      # Main HTML structure
+├── index.html      # The Main HTML structure
 ├── style.css       # Styling and responsive design
 ├── script.js       # JavaScript functionality
 └── README.md       # Project documentation
