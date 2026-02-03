@@ -10,11 +10,11 @@ It helps users create, track, and maintain daily habits while providing visual f
 
 ✅ Add unlimited daily habits
 
-- ✏️ Mark habits as completed with a single click
+- ✏️ Mark the habits as completed with a single click
 
-- 🗑️ Delete habits easily using a clear delete button
+- 🗑️ Delete the habits easily using a clear delete button
 
-- 📊 Real-time habit statistics (total, completed, active streak)
+- 📊 Real-time habit and statistics (total, completed, active streak)
 
 - 💾 Persistent data storage using localStorage
 
