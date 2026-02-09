@@ -1,9 +1,9 @@
 # HackInverse-0.5-project
 This is a modern habit tracker built with HTML, CSS &amp; JavaScript to help users form daily routines and track progress.
 ---
-# 🧠 HABITPRO – A Habit Tracker Web App
+# 🧠Habit-pro :made for daily usage
 
-HabitPro is a simple, clean, and user-friendly habit tracking web application built using HTML, CSS, and JavaScript.
+HabitPro is a simple, clean looking , and user-friendly habit tracking web application built using HTML, CSS, and JavaScript.
 It helps users create, track, and maintain daily habits while providing visual feedback and progress statistics to encourage consistency.
 
 # 🚀 Features
