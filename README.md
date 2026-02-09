@@ -10,17 +10,17 @@ It helps users create, track, and maintain daily habits while providing visual f
 
 ✅ Add unlimited daily habits
 
-- 1)✏️ Mark the habits as completed with a single click
+ 1)✏️ Mark the habits as completed with a single click
 
-- 2)🗑️ Delete the habits easily using a clear delete button
+ 2)🗑️ Delete the habits easily using a clear delete button
 
-- 3)📊 Real-time habit and statistics (total, completed, active streak)
+ 3)📊 Real-time habit and statistics (total, completed, active streak)
 
-- 4)💾 Persistent data storage which is using localStorage
+ 4)💾 Persistent data storage which is using localStorage
 
-- 5)📱 Fully responsive design for desktop and mobile devices
+ 5)📱 Fully responsive design for desktop and mobile devices
 
-- 6)🎨 Clean and modern UI with smooth animations
+ 6)🎨 Clean and modern UI with smooth animations
 
 # 🛠️ Technologies Used
 
